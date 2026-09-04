@@ -1,0 +1,147 @@
+{
+  "last_update": "2026-09-04T18:15:05.652986",
+  "source": "M14 Motor - TradingView Close + 5min Live",
+  "count": 14,
+  "prices": [
+    {
+      "ticker": "SWDY.CA",
+      "name_ar": "SWDY",
+      "price": 130.0,
+      "change_pct": 1.29,
+      "m14_score": 90,
+      "status": "BUY",
+      "last_update": "2026-09-04T18:15:01.089689",
+      "source": "EGX - Candle Close"
+    },
+    {
+      "ticker": "ABUK.CA",
+      "name_ar": "ABUK",
+      "price": 92.39,
+      "change_pct": -1.71,
+      "m14_score": 65,
+      "status": "WAIT",
+      "last_update": "2026-09-04T18:15:01.429995",
+      "source": "EGX - Candle Close"
+    },
+    {
+      "ticker": "COMI.CA",
+      "name_ar": "COMI",
+      "price": 141.0,
+      "change_pct": 1.45,
+      "m14_score": 90,
+      "status": "BUY",
+      "last_update": "2026-09-04T18:15:02.108450",
+      "source": "EGX - Candle Close"
+    },
+    {
+      "ticker": "HRHO.CA",
+      "name_ar": "HRHO",
+      "price": 26.0,
+      "change_pct": 1.17,
+      "m14_score": 90,
+      "status": "BUY",
+      "last_update": "2026-09-04T18:15:02.448379",
+      "source": "EGX - Candle Close"
+    },
+    {
+      "ticker": "TMGH.CA",
+      "name_ar": "TMGH",
+      "price": 97.8,
+      "change_pct": 1.24,
+      "m14_score": 90,
+      "status": "BUY",
+      "last_update": "2026-09-04T18:15:02.767585",
+      "source": "EGX - Candle Close"
+    },
+    {
+      "ticker": "EAST.CA",
+      "name_ar": "EAST",
+      "price": 36.03,
+      "change_pct": 0.76,
+      "m14_score": 90,
+      "status": "BUY",
+      "last_update": "2026-09-04T18:15:03.082562",
+      "source": "EGX - Candle Close"
+    },
+    {
+      "ticker": "ETEL.CA",
+      "name_ar": "ETEL",
+      "price": 115.99,
+      "change_pct": 0.86,
+      "m14_score": 90,
+      "status": "BUY",
+      "last_update": "2026-09-04T18:15:03.288574",
+      "source": "EGX - Candle Close"
+    },
+    {
+      "ticker": "FWRY.CA",
+      "name_ar": "FWRY",
+      "price": 19.0,
+      "change_pct": 0.26,
+      "m14_score": 90,
+      "status": "BUY",
+      "last_update": "2026-09-04T18:15:03.584730",
+      "source": "EGX - Candle Close"
+    },
+    {
+      "ticker": "JUFO.CA",
+      "name_ar": "JUFO",
+      "price": 27.4,
+      "change_pct": 1.26,
+      "m14_score": 90,
+      "status": "BUY",
+      "last_update": "2026-09-04T18:15:04.066470",
+      "source": "EGX - Candle Close"
+    },
+    {
+      "ticker": "ORWE.CA",
+      "name_ar": "ORWE",
+      "price": 26.85,
+      "change_pct": 0.34,
+      "m14_score": 90,
+      "status": "BUY",
+      "last_update": "2026-09-04T18:15:04.371472",
+      "source": "EGX - Candle Close"
+    },
+    {
+      "ticker": "EKHO.CA",
+      "name_ar": "EKHO",
+      "price": 0.67,
+      "change_pct": 0.0,
+      "m14_score": 90,
+      "status": "BUY",
+      "last_update": "2026-09-04T18:15:04.788811",
+      "source": "EGX - Candle Close"
+    },
+    {
+      "ticker": "ORAS.CA",
+      "name_ar": "ORAS",
+      "price": 71.05,
+      "change_pct": 0.0,
+      "m14_score": 90,
+      "status": "BUY",
+      "last_update": "2026-09-04T18:15:04.976114",
+      "source": "EGX - Candle Close"
+    },
+    {
+      "ticker": "SKPC.CA",
+      "name_ar": "SKPC",
+      "price": 18.83,
+      "change_pct": -0.74,
+      "m14_score": 90,
+      "status": "BUY",
+      "last_update": "2026-09-04T18:15:05.204367",
+      "source": "EGX - Candle Close"
+    },
+    {
+      "ticker": "AMOC.CA",
+      "name_ar": "AMOC",
+      "price": 13.5,
+      "change_pct": 0.0,
+      "m14_score": 90,
+      "status": "BUY",
+      "last_update": "2026-09-04T18:15:05.428562",
+      "source": "EGX - Candle Close"
+    }
+  ]
+}
