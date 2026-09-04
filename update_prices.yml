@@ -1,0 +1,24 @@
+
+name: M14 Motor - Update Prices
+
+on:
+  schedule:
+    - cron: '*/5 8-13 * * 0-4'  # كل 5 دقايق من 8 الصبح ل 1 الظهر بتوقيت جرينتش = 10 ص ل 3 م بتوقيت مصر، من الاحد للخميس
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install yfinance pandas
+      - run: python update_engine.py
+      - run: |
+          git config user.name "M14 Motor"
+          git config user.email "motor@m14.eg"
+          git add data/live_prices.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "Live prices update"
+          git push
