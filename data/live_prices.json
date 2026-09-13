@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-09-13T08:31:47.822792",
+  "last_update": "2026-09-13T09:08:33.599829",
   "source": "M14 Motor - TradingView Close + 5min Live",
   "count": 14,
   "prices": [
@@ -10,7 +10,7 @@
       "change_pct": -2.6,
       "m14_score": 30,
       "status": "BLOCK",
-      "last_update": "2026-09-13T08:31:43.374212",
+      "last_update": "2026-09-13T09:08:30.487731",
       "source": "EGX - Candle Close"
     },
     {
@@ -20,7 +20,7 @@
       "change_pct": -1.06,
       "m14_score": 65,
       "status": "WAIT",
-      "last_update": "2026-09-13T08:31:43.590300",
+      "last_update": "2026-09-13T09:08:30.703709",
       "source": "EGX - Candle Close"
     },
     {
@@ -30,7 +30,7 @@
       "change_pct": -0.74,
       "m14_score": 90,
       "status": "BUY",
-      "last_update": "2026-09-13T08:31:43.895749",
+      "last_update": "2026-09-13T09:08:30.910853",
       "source": "EGX - Candle Close"
     },
     {
@@ -40,7 +40,7 @@
       "change_pct": 0.54,
       "m14_score": 90,
       "status": "BUY",
-      "last_update": "2026-09-13T08:31:44.112511",
+      "last_update": "2026-09-13T09:08:31.156417",
       "source": "EGX - Candle Close"
     },
     {
@@ -50,7 +50,7 @@
       "change_pct": 0.05,
       "m14_score": 90,
       "status": "BUY",
-      "last_update": "2026-09-13T08:31:44.321368",
+      "last_update": "2026-09-13T09:08:31.444382",
       "source": "EGX - Candle Close"
     },
     {
@@ -60,7 +60,7 @@
       "change_pct": -1.69,
       "m14_score": 65,
       "status": "WAIT",
-      "last_update": "2026-09-13T08:31:44.650024",
+      "last_update": "2026-09-13T09:08:31.640715",
       "source": "EGX - Candle Close"
     },
     {
@@ -70,7 +70,7 @@
       "change_pct": -0.59,
       "m14_score": 90,
       "status": "BUY",
-      "last_update": "2026-09-13T08:31:44.909795",
+      "last_update": "2026-09-13T09:08:31.819855",
       "source": "EGX - Candle Close"
     },
     {
@@ -80,7 +80,7 @@
       "change_pct": 0.0,
       "m14_score": 90,
       "status": "BUY",
-      "last_update": "2026-09-13T08:31:45.096626",
+      "last_update": "2026-09-13T09:08:32.105794",
       "source": "EGX - Candle Close"
     },
     {
@@ -90,7 +90,7 @@
       "change_pct": 0.07,
       "m14_score": 90,
       "status": "BUY",
-      "last_update": "2026-09-13T08:31:45.374369",
+      "last_update": "2026-09-13T09:08:32.285699",
       "source": "EGX - Candle Close"
     },
     {
@@ -100,7 +100,7 @@
       "change_pct": 1.0,
       "m14_score": 90,
       "status": "BUY",
-      "last_update": "2026-09-13T08:31:45.862158",
+      "last_update": "2026-09-13T09:08:32.463041",
       "source": "EGX - Candle Close"
     },
     {
@@ -110,7 +110,7 @@
       "change_pct": 0.0,
       "m14_score": 90,
       "status": "BUY",
-      "last_update": "2026-09-13T08:31:46.833945",
+      "last_update": "2026-09-13T09:08:32.656063",
       "source": "EGX - Candle Close"
     },
     {
@@ -120,7 +120,7 @@
       "change_pct": 0.0,
       "m14_score": 90,
       "status": "BUY",
-      "last_update": "2026-09-13T08:31:47.041698",
+      "last_update": "2026-09-13T09:08:32.891268",
       "source": "EGX - Candle Close"
     },
     {
@@ -130,7 +130,7 @@
       "change_pct": -0.16,
       "m14_score": 90,
       "status": "BUY",
-      "last_update": "2026-09-13T08:31:47.313526",
+      "last_update": "2026-09-13T09:08:33.146650",
       "source": "EGX - Candle Close"
     },
     {
@@ -140,7 +140,7 @@
       "change_pct": -5.49,
       "m14_score": 30,
       "status": "BLOCK",
-      "last_update": "2026-09-13T08:31:47.618508",
+      "last_update": "2026-09-13T09:08:33.364952",
       "source": "EGX - Candle Close"
     }
   ]
