@@ -1,7 +1,7 @@
 {
-  "last_update": "2026-09-17T13:59:11.192954",
+  "last_update": "2026-09-20T08:03:42.892739",
   "source": "M14 Motor - TradingView Close + 5min Live",
-  "count": 14,
+  "count": 13,
   "prices": [
     {
       "ticker": "SWDY.CA",
@@ -10,7 +10,7 @@
       "change_pct": -0.84,
       "m14_score": 90,
       "status": "BUY",
-      "last_update": "2026-09-17T13:59:07.541861",
+      "last_update": "2026-09-20T08:03:40.655015",
       "source": "EGX - Candle Close"
     },
     {
@@ -20,7 +20,7 @@
       "change_pct": 1.25,
       "m14_score": 90,
       "status": "BUY",
-      "last_update": "2026-09-17T13:59:07.739477",
+      "last_update": "2026-09-20T08:03:40.778476",
       "source": "EGX - Candle Close"
     },
     {
@@ -30,7 +30,7 @@
       "change_pct": -0.57,
       "m14_score": 90,
       "status": "BUY",
-      "last_update": "2026-09-17T13:59:08.006689",
+      "last_update": "2026-09-20T08:03:40.911643",
       "source": "EGX - Candle Close"
     },
     {
@@ -40,7 +40,7 @@
       "change_pct": 0.08,
       "m14_score": 90,
       "status": "BUY",
-      "last_update": "2026-09-17T13:59:08.228851",
+      "last_update": "2026-09-20T08:03:41.024878",
       "source": "EGX - Candle Close"
     },
     {
@@ -50,7 +50,7 @@
       "change_pct": -0.98,
       "m14_score": 90,
       "status": "BUY",
-      "last_update": "2026-09-17T13:59:08.505088",
+      "last_update": "2026-09-20T08:03:41.191218",
       "source": "EGX - Candle Close"
     },
     {
@@ -60,7 +60,7 @@
       "change_pct": -2.02,
       "m14_score": 30,
       "status": "BLOCK",
-      "last_update": "2026-09-17T13:59:08.843393",
+      "last_update": "2026-09-20T08:03:41.304808",
       "source": "EGX - Candle Close"
     },
     {
@@ -70,7 +70,7 @@
       "change_pct": -0.53,
       "m14_score": 90,
       "status": "BUY",
-      "last_update": "2026-09-17T13:59:09.153777",
+      "last_update": "2026-09-20T08:03:41.427909",
       "source": "EGX - Candle Close"
     },
     {
@@ -80,7 +80,7 @@
       "change_pct": -0.11,
       "m14_score": 90,
       "status": "BUY",
-      "last_update": "2026-09-17T13:59:09.304591",
+      "last_update": "2026-09-20T08:03:41.510666",
       "source": "EGX - Candle Close"
     },
     {
@@ -90,7 +90,7 @@
       "change_pct": 0.3,
       "m14_score": 90,
       "status": "BUY",
-      "last_update": "2026-09-17T13:59:09.629940",
+      "last_update": "2026-09-20T08:03:41.618395",
       "source": "EGX - Candle Close"
     },
     {
@@ -100,17 +100,7 @@
       "change_pct": 0.9,
       "m14_score": 90,
       "status": "BUY",
-      "last_update": "2026-09-17T13:59:09.975936",
-      "source": "EGX - Candle Close"
-    },
-    {
-      "ticker": "EKHO.CA",
-      "name_ar": "EKHO",
-      "price": 0.67,
-      "change_pct": 0.0,
-      "m14_score": 90,
-      "status": "BUY",
-      "last_update": "2026-09-17T13:59:10.251141",
+      "last_update": "2026-09-20T08:03:41.741158",
       "source": "EGX - Candle Close"
     },
     {
@@ -120,7 +110,7 @@
       "change_pct": 0.0,
       "m14_score": 90,
       "status": "BUY",
-      "last_update": "2026-09-17T13:59:10.495644",
+      "last_update": "2026-09-20T08:03:42.228977",
       "source": "EGX - Candle Close"
     },
     {
@@ -130,7 +120,7 @@
       "change_pct": 0.83,
       "m14_score": 90,
       "status": "BUY",
-      "last_update": "2026-09-17T13:59:10.729984",
+      "last_update": "2026-09-20T08:03:42.353920",
       "source": "EGX - Candle Close"
     },
     {
@@ -140,7 +130,7 @@
       "change_pct": 2.83,
       "m14_score": 90,
       "status": "BUY",
-      "last_update": "2026-09-17T13:59:10.958098",
+      "last_update": "2026-09-20T08:03:42.487225",
       "source": "EGX - Candle Close"
     }
   ]
