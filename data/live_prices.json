@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-09-21T11:00:18.028308",
+  "last_update": "2026-09-21T11:13:29.546138",
   "source": "M14 Motor - TradingView Close + 5min Live",
   "count": 13,
   "prices": [
@@ -7,50 +7,50 @@
       "ticker": "SWDY.CA",
       "name_ar": "SWDY",
       "price": 127.5,
-      "change_pct": 2.45,
+      "change_pct": 0.39,
       "m14_score": 90,
       "status": "BUY",
-      "last_update": "2026-09-21T11:00:15.343034",
+      "last_update": "2026-09-21T11:13:25.097076",
       "source": "EGX - Candle Close"
     },
     {
       "ticker": "ABUK.CA",
       "name_ar": "ABUK",
       "price": 94.0,
-      "change_pct": 5.62,
+      "change_pct": 1.57,
       "m14_score": 90,
       "status": "BUY",
-      "last_update": "2026-09-21T11:00:15.488684",
+      "last_update": "2026-09-21T11:13:25.321264",
       "source": "EGX - Candle Close"
     },
     {
       "ticker": "COMI.CA",
       "name_ar": "COMI",
       "price": 133.69,
-      "change_pct": 1.47,
+      "change_pct": 0.9,
       "m14_score": 90,
       "status": "BUY",
-      "last_update": "2026-09-21T11:00:15.622499",
+      "last_update": "2026-09-21T11:13:25.535292",
       "source": "EGX - Candle Close"
     },
     {
       "ticker": "HRHO.CA",
       "name_ar": "HRHO",
       "price": 25.33,
-      "change_pct": 0.12,
+      "change_pct": -0.24,
       "m14_score": 90,
       "status": "BUY",
-      "last_update": "2026-09-21T11:00:15.756429",
+      "last_update": "2026-09-21T11:13:25.739237",
       "source": "EGX - Candle Close"
     },
     {
       "ticker": "TMGH.CA",
       "name_ar": "TMGH",
       "price": 94.7,
-      "change_pct": -0.32,
-      "m14_score": 90,
-      "status": "BUY",
-      "last_update": "2026-09-21T11:00:15.883707",
+      "change_pct": -1.15,
+      "m14_score": 65,
+      "status": "WAIT",
+      "last_update": "2026-09-21T11:13:25.934744",
       "source": "EGX - Candle Close"
     },
     {
@@ -60,7 +60,7 @@
       "change_pct": 0.09,
       "m14_score": 90,
       "status": "BUY",
-      "last_update": "2026-09-21T11:00:16.038945",
+      "last_update": "2026-09-21T11:13:26.184079",
       "source": "EGX - Candle Close"
     },
     {
@@ -70,37 +70,37 @@
       "change_pct": -1.12,
       "m14_score": 65,
       "status": "WAIT",
-      "last_update": "2026-09-21T11:00:16.169962",
+      "last_update": "2026-09-21T11:13:26.473615",
       "source": "EGX - Candle Close"
     },
     {
       "ticker": "FWRY.CA",
       "name_ar": "FWRY",
       "price": 18.99,
-      "change_pct": 0.58,
+      "change_pct": 0.21,
       "m14_score": 90,
       "status": "BUY",
-      "last_update": "2026-09-21T11:00:16.269179",
+      "last_update": "2026-09-21T11:13:26.643083",
       "source": "EGX - Candle Close"
     },
     {
       "ticker": "JUFO.CA",
       "name_ar": "JUFO",
       "price": 26.9,
-      "change_pct": -0.66,
+      "change_pct": -0.37,
       "m14_score": 90,
       "status": "BUY",
-      "last_update": "2026-09-21T11:00:16.403801",
+      "last_update": "2026-09-21T11:13:26.977801",
       "source": "EGX - Candle Close"
     },
     {
       "ticker": "ORWE.CA",
       "name_ar": "ORWE",
       "price": 28.05,
-      "change_pct": 4.66,
+      "change_pct": 0.18,
       "m14_score": 90,
       "status": "BUY",
-      "last_update": "2026-09-21T11:00:16.545526",
+      "last_update": "2026-09-21T11:13:27.221785",
       "source": "EGX - Candle Close"
     },
     {
@@ -110,27 +110,27 @@
       "change_pct": 0.0,
       "m14_score": 90,
       "status": "BUY",
-      "last_update": "2026-09-21T11:00:17.179861",
+      "last_update": "2026-09-21T11:13:28.276129",
       "source": "EGX - Candle Close"
     },
     {
       "ticker": "SKPC.CA",
       "name_ar": "SKPC",
       "price": 18.55,
-      "change_pct": 1.64,
+      "change_pct": 0.27,
       "m14_score": 90,
       "status": "BUY",
-      "last_update": "2026-09-21T11:00:17.314971",
+      "last_update": "2026-09-21T11:13:28.482505",
       "source": "EGX - Candle Close"
     },
     {
       "ticker": "AMOC.CA",
       "name_ar": "AMOC",
       "price": 14.09,
-      "change_pct": 4.76,
+      "change_pct": 2.1,
       "m14_score": 90,
       "status": "BUY",
-      "last_update": "2026-09-21T11:00:17.459325",
+      "last_update": "2026-09-21T11:13:28.736746",
       "source": "EGX - Candle Close"
     }
   ]
